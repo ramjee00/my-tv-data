@@ -2,8 +2,11 @@ name: Auto Update TV Channels
 
 on:
   schedule:
-    - cron: '0 */3 * * *'   # हर 3 घंटे में update
+    - cron: '0 */3 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 IMPORTANT
 
 jobs:
   update:
@@ -12,6 +15,8 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        persist-credentials: true   # 🔥 IMPORTANT
 
     - name: Setup Node.js
       uses: actions/setup-node@v3
@@ -21,10 +26,10 @@ jobs:
     - name: Run fetch script
       run: node fetch.js
 
-    - name: Commit and Push
+    - name: Commit & Push
       run: |
-        git config --global user.name "auto-bot"
-        git config --global user.email "bot@email.com"
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
         git add .
         git commit -m "Auto update channels" || echo "No changes"
         git push
