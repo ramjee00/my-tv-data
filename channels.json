@@ -1,0 +1,92 @@
+[
+  {
+    "id": "hotstar",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
+    "name": "HOTSTAR"
+  },
+  {
+    "id": "sts1h",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg",
+    "name": "STAR SPORTS 1 HD"
+  },
+  {
+    "id": "sts2h",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2h.png",
+    "name": "STAR SPORTS 2 HINDI"
+  },
+  {
+    "id": "star1eng",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
+  },
+  {
+    "id": "star2eng",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2.jpg",
+    "name": "STAR SPORTS 2"
+  },
+  {
+    "id": "tsports",
+    "logo": "https://tvassets.roarzone.info/images/102.png",
+    "name": "T SPORTS"
+  },
+  {
+    "id": "willowtv",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/willowtv.jpg",
+    "name": "WILLOW TV"
+  },
+  {
+    "id": "willowsports2",
+    "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
+    "name": "WILLOW SPORTS"
+  },
+  {
+    "id": "cricbuzz1",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEj9XwMhKSG-SRnR__t8S1NbDUwYUoM31qPwDi1dqAtjmz55Y2ZCd4V1kzFsAtP9W7qZ-RDuwy6LvDFTBnPdy2hd_ND-YlvdTI-nrEYiEAIJiZoVMME0CGBSlSRJFUMcXQ38t08sgfYZCggd1ByBsEWjjCme79BMTeZMDCRF2zeKhJ4mGBk2XaF-SZrYokM",
+    "name": "CRICBUZZ 1"
+  },
+  {
+    "id": "criclifemax",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjlUJjJddcQTaGls7ms7MpQBnG6W4-T80SpVONSNHbDgvpPJ7v1zCETXSnZ-oKwPAlQNq4jTUh_0nm8_nGgWarUi0uDVBB-scbG6qvUMusGEhFordeCN3Xa1KX823V_sIEPGr9sOFqWdC7G8he3pWP6tsEub5EMhBQG3PeEoaqnz-5JYNfF-Z3hXd3J-g4",
+    "name": "CRICLIFE MAX"
+  },
+  {
+    "id": "criclife",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgXoQaWu3dEFpTStDxnLFgKw-z-_0TCowMXAg8iv-TQ8vhAN5jIpNREuM1DAeC-grIbZ6TtNfz5fYhY9tSq8VNSvoisgEClh2pIj7GJUaA_OipEtUSpVkyFkLgqiwn5B4NGJZGP9RFuJKZqILomTNRoTj8-_GvhH1izsZBxRrkZqQRCGtZlYbErlMMZQCo",
+    "name": "CRICLIFE"
+  },
+  {
+    "id": "cricbuzz2",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjjHNNZ8ThCspqDjueu8EqdErzEicE-Dc5BykVGsM5cL5daCLx86pUKe43NHqlTAlWoQUi4LL1OCHyVQvV39VdvPI4_MMV6EPXWO7fNCHL3CRIw44teQOC4Mg9f3ZNohJJ1NDwKqXJfv5TgPIumgoJUIbiXb-vdCZoToCAqsto7agUlGlYBDeHhoeC8AXs",
+    "name": "CRICBUZZ 2"
+  },
+  {
+    "id": "tnt1",
+    "logo": "https://wapka-img.zuna.id/29919308.jpeg",
+    "name": "TNT SPORTS 1"
+  },
+  {
+    "id": "tnt2",
+    "logo": "https://wapka-img.zuna.id/e090fdfd.jpeg",
+    "name": "TNT SPORTS 2"
+  },
+  {
+    "id": "tnt3",
+    "logo": "https://wapka-img.zuna.id/7db078ad.jpeg",
+    "name": "TNT SPORTS 3"
+  },
+  {
+    "id": "tnt4",
+    "logo": "https://wapka-img.zuna.id/50f65682.jpeg",
+    "name": "TNT SPORTS 4"
+  },
+  {
+    "id": "pkten",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/pkten.jpeg",
+    "name": "TEN SPORTS PAK"
+  },
+  {
+    "id": "ds",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
+    "name": "DD SPORTS"
+  }
+]
