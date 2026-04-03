@@ -6,9 +6,15 @@ https://wap4tv.pages.dev/?id=sts1h
 #EXTINF:-1,STAR SPORTS 2 HINDI
 https://wap4tv.pages.dev/?id=sts2h
 #EXTINF:-1,STAR SPORTS 1
-https://wap4tv.pages.dev/?id=star1eng
+https://wap4tv.pages.dev/?id=sts1
+#EXTINF:-1,STAR SPORTS 1
+https://wap4tv.pages.dev/?id=sts11
 #EXTINF:-1,STAR SPORTS 2
-https://wap4tv.pages.dev/?id=star2eng
+https://wap4tv.pages.dev/?id=sts2
+#EXTINF:-1,STAR SPORTS SELECT 1
+https://wap4tv.pages.dev/?id=stss1
+#EXTINF:-1,STAR SPORTS SELECT 2
+https://wap4tv.pages.dev/?id=stss2
 #EXTINF:-1,T SPORTS
 https://wap4tv.pages.dev/?id=tsports1
 #EXTINF:-1,WILLOW TV
@@ -31,7 +37,7 @@ https://wap4tv.pages.dev/?id=tnt2
 https://wap4tv.pages.dev/?id=tnt3
 #EXTINF:-1,TNT SPORTS 4
 https://wap4tv.pages.dev/?id=tnt4
-#EXTINF:-1,TEN SPORTS PAK
-https://wap4tv.pages.dev/?id=pkten
+#EXTINF:-1,TEN CRICKET
+https://wap4tv.pages.dev/?id=tencricket
 #EXTINF:-1,DD SPORTS
 https://wap4tv.pages.dev/?id=ds
