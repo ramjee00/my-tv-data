@@ -1,8 +1,18 @@
 [
   {
+    "id": "sts1h",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
+    "name": "STAR SPORTS 1 HINDI HD"
+  },
+  {
     "id": "tamilgun",
     "logo": "https://image.winudf.com/v2/image1/Y29tLndUYW1pbEdVTkhETU9WSUVTXzgxMjc2Mjhfc2NyZWVuXzJfMTU0MjA0MDUxN18wOTM/screen-2.jpg?fakeurl=1&type=.jpg",
     "name": "TAMIL GUN"
+  },
+  {
+    "id": "sony12",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
+    "name": "STAR SPORTS 1 HINDI"
   },
   {
     "id": "criclife",
@@ -10,24 +20,24 @@
     "name": "CRICLIFE"
   },
   {
-    "id": "sts1",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
-    "name": "STAR SPORTS 1"
-  },
-  {
     "id": "hotstar",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hotstar.jpg",
     "name": "HOTSTAR"
   },
   {
-    "id": "sts1h",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1hd.jpg",
-    "name": "STAR SPORTS 1 HD"
+    "id": "sts13",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
   },
   {
-    "id": "sts2h",
-    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts2h.png",
-    "name": "STAR SPORTS 2 HINDI"
+    "id": "sts12",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1.jpg",
+    "name": "STAR SPORTS 1"
+  },
+  {
+    "id": "hub4",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hub4.png",
+    "name": "HUBSPORTS 4"
   },
   {
     "id": "sts1",
