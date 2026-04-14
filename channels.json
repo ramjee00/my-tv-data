@@ -35,6 +35,11 @@
     "name": "STAR SPORTS 1"
   },
   {
+    "id": "fox",
+    "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/fox.png",
+    "name": "FOX SPORTS"
+  },
+  {
     "id": "hub4",
     "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/hub4.png",
     "name": "HUBSPORTS 4"
